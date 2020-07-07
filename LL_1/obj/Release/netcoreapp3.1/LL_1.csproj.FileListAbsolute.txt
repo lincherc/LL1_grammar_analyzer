@@ -1,0 +1,13 @@
+C:\RiderProjects\LL_1\LL_1\bin\Release\netcoreapp3.1\LL_1.exe
+C:\RiderProjects\LL_1\LL_1\bin\Release\netcoreapp3.1\LL_1.deps.json
+C:\RiderProjects\LL_1\LL_1\bin\Release\netcoreapp3.1\LL_1.runtimeconfig.json
+C:\RiderProjects\LL_1\LL_1\bin\Release\netcoreapp3.1\LL_1.runtimeconfig.dev.json
+C:\RiderProjects\LL_1\LL_1\bin\Release\netcoreapp3.1\LL_1.dll
+C:\RiderProjects\LL_1\LL_1\bin\Release\netcoreapp3.1\LL_1.pdb
+C:\RiderProjects\LL_1\LL_1\obj\Release\netcoreapp3.1\LL_1.csprojAssemblyReference.cache
+C:\RiderProjects\LL_1\LL_1\obj\Release\netcoreapp3.1\LL_1.csproj.CoreCompileInputs.cache
+C:\RiderProjects\LL_1\LL_1\obj\Release\netcoreapp3.1\LL_1.AssemblyInfoInputs.cache
+C:\RiderProjects\LL_1\LL_1\obj\Release\netcoreapp3.1\LL_1.AssemblyInfo.cs
+C:\RiderProjects\LL_1\LL_1\obj\Release\netcoreapp3.1\LL_1.dll
+C:\RiderProjects\LL_1\LL_1\obj\Release\netcoreapp3.1\LL_1.pdb
+C:\RiderProjects\LL_1\LL_1\obj\Release\netcoreapp3.1\LL_1.genruntimeconfig.cache
