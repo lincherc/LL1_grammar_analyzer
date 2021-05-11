@@ -1,7 +1,9 @@
 # LL1_grammar_analyzer
 LL1 grammar analyzer build on .NET CORE by C#
 
-if-else grammer
+预测分析表将在语法分析中被自动打印出来（详见StrTrans.cs）需要查看预测分析表，请用下面给出的测试用例输入运行
+
+if-else grammer analyze
 
 <条件语句> → IF <条件> THEN <语句> 
 <条件> → <表达式> <关系运算符> <表达式>
