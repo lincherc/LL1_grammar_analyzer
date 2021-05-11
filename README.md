@@ -1,5 +1,5 @@
 # LL1_grammar_analyzer
-LL1 grammar analyzer build on .NET CORE by C#
+LL1 grammar analyzer build on .NET Core by C#
 
 预测分析表将在语法分析中被自动打印出来（详见StrTrans.cs）需要查看预测分析表，请用下面给出的测试用例输入运行
 
