@@ -1,5 +1,5 @@
 # LL1_grammar_analyzer
-LL1 grammar analyzer by C#
+LL1 grammar analyzer build on .NET CORE by C#
 
 if-else grammer
 
